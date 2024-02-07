@@ -1,0 +1,2 @@
+print("goashi shemosvlis tanave me gavicani: aleks pagava, andria mtchedlishvili, dati chxikvadze, davit kutelia, davit narimanidze, demetre ekseulidze, erekle darchiashvili, gio gagnidze, giorgi gvritishvili, giorgi kaplianishvili, giorgi waqadze, ilia mikadze, ivane maxarashvili, mate dolidze, nikoloz devdariani, nikusha turava, temo jilaviani, zura kharbedia, dachi mefarishvili")
+print("chemi azrit goa aris dzalian magari da saintereso adgili sadac shegidzlia daiwyo programireba")
