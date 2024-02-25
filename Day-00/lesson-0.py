@@ -75,8 +75,7 @@ forward(50)
 left(90)
 forward(40)
 
-color("green")
-forward(200)
+
 
 
 exitonclick()
