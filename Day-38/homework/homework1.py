@@ -1,0 +1,12 @@
+films = ("fast and furious 1", "fast and furious 2", "fast and furious 3", "fast and furious 4", "fast and furious 5", 
+         "fast and furious 6", "fast and furious 7", "fast and furious 8", "fast and furious 9", "fast and furious 10",)
+print(films[0])
+print(films[1])
+print(films[2])
+print(films[3])
+print(films[4])
+print(films[5])
+print(films[6])
+print(films[7])
+print(films[8])
+print(films[9])
