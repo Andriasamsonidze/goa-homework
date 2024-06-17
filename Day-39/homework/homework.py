@@ -1,5 +1,6 @@
-More = []
 Less = []
+More = []
+
 
 for i in range(10):
     input_num = int(input("Enter a random number: "))
