@@ -11,4 +11,5 @@ for i in range(len(Number_list)):
     else:
         continue
 print("These are two digit numbers: ", Two__digit_number_list)
+print(len(Two__digit_number_list))
 
