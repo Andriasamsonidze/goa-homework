@@ -2,12 +2,13 @@
 # ყველა ხუთის ჯერადი რიცხვი და დავბეჭდოთ მათი ჯამი
 
 
+sum = 0
 num = [17, 42, 9, 55, 23, 8, 36, 71, 13, 29, 64, 5, 19, 83, 12, 37, 6, 50, 27, 91]
-fifth_nums = []
 for i in range(len(num)):
     if num[i] % 5 == 0:
-        fifth_nums.append(num[i])
-print(sum(fifth_nums))
+        sum += num[i]
+print(sum)
+
 
 
 
