@@ -1,0 +1,10 @@
+# 3) Print even numbers separately and odd numbers separately from 0 to 100 inclusive for loop ის გამოყენებით
+# დაბეჭდეთ ლუწი და კენტი რიცხვები ცალ-ცალკე 0-დან 100-მდე ციკლის გამოყენებით
+
+print("even numbers: ")
+for i in range(0, 101, 2):
+    print(i)
+
+print("odd numbers: ")
+for i in range(1, 101, 2):
+    print(i)
