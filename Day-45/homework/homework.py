@@ -1,0 +1,1 @@
+# dya 44 mewera da axlidan xoar gadavakopireb..
