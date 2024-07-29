@@ -1,1 +1,1 @@
-# dya 44 mewera da axlidan xoar gadavakopireb..
+# day 44 mewera da axlidan xoar gadavakopireb..
