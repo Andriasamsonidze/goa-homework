@@ -1,0 +1,31 @@
+body {
+    background-color: lightgray;
+    color: black;
+}
+
+header {
+    background-color: navy;
+    color: lightgray;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+}
+
+main {
+    background-color: white;
+}
+
+h2 {
+    color: navy;
+}
+
+p {
+    color: black;
+}
+
+img {
+    width: 100%;
+    border: 2px solid navy;
+}
