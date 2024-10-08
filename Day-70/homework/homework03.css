@@ -1,0 +1,37 @@
+input {
+    background-color: cyan;
+    border: 1px solid black;
+    border-radius: 50px;
+    height: 30px;
+}
+
+.input2 {
+    background-color: darkcyan;
+    border: 1px solid black;
+}
+
+.input3 {
+    background-color: blue;
+    border: 1px solid black;
+}
+
+.input4 {
+    background-color: darkblue;
+    border: 1px solid black;
+}
+
+.input5 {
+    background-color: lightcoral;
+    border: 1px solid black;
+}
+
+button {
+    background-color: red;
+    border: 1px solid black;
+}
+
+.btn2 {
+    background-color: darkred;
+    border: 1px solid black;
+}
+

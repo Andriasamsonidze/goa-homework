@@ -1,0 +1,16 @@
+#text1{
+    color: darkred;
+    text-shadow: 3px 8px 5px red;
+}
+#text2{
+    color: blue;
+    text-shadow: 4px 10px 8px darkblue;
+}
+#text3{
+    color: green;
+    text-shadow: 3px 6px 2px darkgreen;
+}
+#text4{
+    color: cyan;
+    text-shadow: 3px 8px 5px navy;
+}

@@ -1,0 +1,17 @@
+.p1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: black;
+}
+
+.p2{
+    text-transform: lowercase;
+    text-decoration: line-through;
+    color: darkred;
+}
+
+.p3{
+    text-transform: capitalize;
+    text-decoration: overline;
+    color: navy;
+}
