@@ -1,0 +1,6 @@
+th, td {
+    border-top: 3px solid red;
+    border-bottom: 2px dashed blue;
+    border-left: 5px double green; 
+    border-right: 1px dotted black;
+}

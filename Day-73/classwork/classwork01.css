@@ -1,0 +1,17 @@
+.div{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+}
+
+.div:hover{
+    width: 150px;
+    height: 150px;
+    background-color: darkgray;
+    transition: 1s;
+}
+
+
+.div:active{
+    margin-top: 200px;
+}
