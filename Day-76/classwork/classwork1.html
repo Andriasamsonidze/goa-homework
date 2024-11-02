@@ -1,0 +1,74 @@
+<!-- 1)შექმენით ცხრილი რომელსაც გასტილავთ ზედაპირულად border გამოიყენებთ padding და margin და კომენტარებით დაწერთ რას აკეთებს
+ თითოეული ცხრილში შეიტანეთ ინფორმაცია 5 ადამიანის შესახებ მათი სახელები გვარები ასაკები და სიმაღლეები(ნებისმიერი რამ ჩაწერეთ) -->
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+    <style>
+        table {
+            border-collapse: collapse; 
+            width: 80%; 
+            margin: 20px; 
+        }
+ 
+        th, td {
+            border: 1px solid black; 
+            padding: 10px;  
+        }
+ 
+        th {
+            background-color: white;
+        }
+ 
+        tr:hover {
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>სახელი</th>
+                <th>გვარი</th>
+                <th>ასაკი</th>
+                <th>სიმაღლე</th>
+            </tr>
+        </thead>
+            <tr>
+                <td>ნიკა</td>
+                <td>ჭელიძე</td>
+                <td>25</td>
+                <td>180</td>
+            </tr>
+            <tr>
+                <td>მარიამი</td>
+                <td>მგალობლიშვილი</td>
+                <td>30</td>
+                <td>165</td>
+            </tr>
+            <tr>
+                 <td>დავითი</td>
+                 <td>ნარიმანიძე</td>
+                 <td>15</td>
+                 <td>192</td>
+             </tr>
+             <tr>
+                <td>გიორგი</td>
+                <td>ხუციშვილი</td>
+                <td>11</td>
+                <td>190</td>
+            </tr>
+            <tr>
+                <td>ელენე</td>
+                <td>ჭელიძე</td>
+                <td>35</td>
+                <td>165</td>
+            </tr>
+    </table>
+</body>
+</html>
+ 

@@ -1,0 +1,25 @@
+/* შექმნით ორი input  სახელის და გვარის შესატანი ასევე ერთი button რომელიც თავიდან 
+იქნება წითელი და ხელს რომ მიტან უნდა გახდეს მწვანე გაუწერეთ input -ს border- radius. */
+
+.name{
+    width: 150px;
+    height: 25px;
+    border-radius: 15px;
+}
+
+.surname{
+    width: 150px;
+    height: 25px;
+    border-radius: 15px;
+}
+
+.button{
+    width: 130px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+.button:hover{
+    background-color: green;
+}

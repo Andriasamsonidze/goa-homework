@@ -1,0 +1,22 @@
+/* შექმნით სარეგისტრაციო გრაფა რომელსაც ექნება border ასევე border -radius  background  ექნება მწვანე . */
+
+body{
+    background-color: lightgray;
+}
+
+.input{
+    border: 2px solid;
+    border-color: green;
+    border-radius: 15px;
+    height: 17px;
+}
+
+.button{
+    border: 1px solid;
+    background-color: darkgreen;
+    border-radius: 3px;
+}
+
+.button:hover{
+    background-color:chartreuse;
+}
